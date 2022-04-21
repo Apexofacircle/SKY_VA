@@ -1,0 +1,11 @@
+C:\Users\djadb\source\repos\Sky\Sky\bin\Debug\Sky.exe.config
+C:\Users\djadb\source\repos\Sky\Sky\bin\Debug\Sky.exe
+C:\Users\djadb\source\repos\Sky\Sky\bin\Debug\Sky.pdb
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.csproj.AssemblyReference.cache
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.csproj.SuggestedBindingRedirects.cache
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.Form1.resources
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.Properties.Resources.resources
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.csproj.GenerateResource.cache
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.csproj.CoreCompileInputs.cache
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.exe
+C:\Users\djadb\source\repos\Sky\Sky\obj\Debug\Sky.pdb
